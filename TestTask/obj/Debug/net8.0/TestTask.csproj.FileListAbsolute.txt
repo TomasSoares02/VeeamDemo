@@ -1,0 +1,14 @@
+c:\Users\Wubi\TestTask\bin\Debug\net8.0\TestTask.exe
+c:\Users\Wubi\TestTask\bin\Debug\net8.0\TestTask.deps.json
+c:\Users\Wubi\TestTask\bin\Debug\net8.0\TestTask.runtimeconfig.json
+c:\Users\Wubi\TestTask\bin\Debug\net8.0\TestTask.dll
+c:\Users\Wubi\TestTask\bin\Debug\net8.0\TestTask.pdb
+c:\Users\Wubi\TestTask\obj\Debug\net8.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Wubi\TestTask\obj\Debug\net8.0\TestTask.AssemblyInfoInputs.cache
+c:\Users\Wubi\TestTask\obj\Debug\net8.0\TestTask.AssemblyInfo.cs
+c:\Users\Wubi\TestTask\obj\Debug\net8.0\TestTask.csproj.CoreCompileInputs.cache
+c:\Users\Wubi\TestTask\obj\Debug\net8.0\TestTask.dll
+c:\Users\Wubi\TestTask\obj\Debug\net8.0\refint\TestTask.dll
+c:\Users\Wubi\TestTask\obj\Debug\net8.0\TestTask.pdb
+c:\Users\Wubi\TestTask\obj\Debug\net8.0\TestTask.genruntimeconfig.cache
+c:\Users\Wubi\TestTask\obj\Debug\net8.0\ref\TestTask.dll
